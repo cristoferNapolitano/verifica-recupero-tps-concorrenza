@@ -1,0 +1,7 @@
+C:\Users\cristo\OneDrive\Desktop\scuola\verifica recupero tps - Cristofer Napolitano\verifica recupero tps - Cristofer Napolitano\bin\Debug\verifica recupero tps - Cristofer Napolitano.exe.config
+C:\Users\cristo\OneDrive\Desktop\scuola\verifica recupero tps - Cristofer Napolitano\verifica recupero tps - Cristofer Napolitano\bin\Debug\verifica recupero tps - Cristofer Napolitano.exe
+C:\Users\cristo\OneDrive\Desktop\scuola\verifica recupero tps - Cristofer Napolitano\verifica recupero tps - Cristofer Napolitano\bin\Debug\verifica recupero tps - Cristofer Napolitano.pdb
+C:\Users\cristo\OneDrive\Desktop\scuola\verifica recupero tps - Cristofer Napolitano\verifica recupero tps - Cristofer Napolitano\obj\Debug\verifica recupero tps - Cristofer Napolitano.csprojAssemblyReference.cache
+C:\Users\cristo\OneDrive\Desktop\scuola\verifica recupero tps - Cristofer Napolitano\verifica recupero tps - Cristofer Napolitano\obj\Debug\verifica recupero tps - Cristofer Napolitano.csproj.CoreCompileInputs.cache
+C:\Users\cristo\OneDrive\Desktop\scuola\verifica recupero tps - Cristofer Napolitano\verifica recupero tps - Cristofer Napolitano\obj\Debug\verifica recupero tps - Cristofer Napolitano.exe
+C:\Users\cristo\OneDrive\Desktop\scuola\verifica recupero tps - Cristofer Napolitano\verifica recupero tps - Cristofer Napolitano\obj\Debug\verifica recupero tps - Cristofer Napolitano.pdb
