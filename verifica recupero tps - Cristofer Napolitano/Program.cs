@@ -25,6 +25,14 @@ namespace verifica_recupero_tps___Cristofer_Napolitano
             }
         }
 
+        void Funzione2()
+        {
+            for (int i = 1; i < 10; i++)
+            {
+                Console.WriteLine(70 * i);
+            }
+        }
+
         
     }
 }
