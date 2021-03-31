@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.30907.101
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "verifica recupero tps - Cristofer Napolitano", "verifica recupero tps - Cristofer Napolitano\verifica recupero tps - Cristofer Napolitano.csproj", "{34D3E1E7-523B-4C75-B403-181FDA3881EB}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{34D3E1E7-523B-4C75-B403-181FDA3881EB}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{34D3E1E7-523B-4C75-B403-181FDA3881EB}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{34D3E1E7-523B-4C75-B403-181FDA3881EB}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{34D3E1E7-523B-4C75-B403-181FDA3881EB}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {9D629BF1-0B95-4CFB-A3D2-E9C898DB1406}
+	EndGlobalSection
+EndGlobal
